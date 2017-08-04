@@ -59,11 +59,11 @@ html[xmlns] .clearfix { display: block; }
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-  }
-    
+}
+  
 #title {
   margin-top: 50px;
   margin-bottom: 30px;
-  color: "black";
+  color: #B40404;
   font-size: 18px;
 }
