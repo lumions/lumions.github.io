@@ -11,7 +11,7 @@ var links = ["http://rs.sfacg.com/web/novel/images/NovelCover/Big/e36f7fa4-01e4-
 
 var titles = ["Traxxas Slash 4X4 遙控車", "Traxxas Bandit 2wd 遙控車", "四軸直昇機", "3D設計及列印", "Python程式設計", "Scratch兒童程式教學", "AI人工智慧"];
 var index = 0;
-var autoplay = true;
+var autoplay = false;
 
 function prevPic() {
   
